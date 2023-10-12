@@ -14,3 +14,5 @@ Proposal / Google Doc: https://docs.google.com/document/d/1-4YIrNIZvZVyWerwDEUT4
 ### Progress Summary  
 10/11 - KC - Trying to understand the difference between a CLI and general user input (standard input: stdin). Played around with implementing argparse, which apparently is needed for a CLI, but I didnt really get anywhere useful with it. It actually seems more limiting in regards to NL Input...so tbd. 
 
+To Do: work on using the actual dataset(s) (add in Medical Examiner) and design functions to select columns, rows, and return selected tables as a joined table.
+
