@@ -12,5 +12,5 @@ Proposal / Google Doc: https://docs.google.com/document/d/1-4YIrNIZvZVyWerwDEUT4
   • Design relational db   
 
 ### Progress Summary  
-
+10/11 - Trying to understand the difference between a CLI and general user input (standard input: stdin). Played around with implementing argparse, which apparently is needed for a CLI, but I didnt really get anywhere useful with it. It actually seems more limiting in regards to NL Input...so tbd. 
 
