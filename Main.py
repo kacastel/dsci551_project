@@ -4,45 +4,39 @@ import random
 # JSON Data from File with specified encoding (e.g., 'utf-8')
 with open('artworks_100.json', 'r', encoding='utf-8') as data_file:
     data = json.load(data_file)
-    
 
-def show_columns():
-    if data["data"]:
-        first_entry = data["data"][int(input("Enter an index value: "))]
-        selected_columns = {
-            "id": first_entry.get("id", ""),
-            "title": first_entry.get("title", ""),
-            "main_reference_number": first_entry.get("main_reference_number", ""),
-            "date_start": first_entry.get("date_start", ""),
-            "date_end": first_entry.get("date_end", ""),
-            "date_display": first_entry.get("date_display", ""),
-            "artist_display": first_entry.get("artist_display", ""),
-            "place_of_origin": first_entry.get("place_of_origin", ""),
-            "description": first_entry.get("description", ""),
-            "dimensions": first_entry.get("dimensions", ""),
-            "medium_display": first_entry.get("medium_display", ""),
-            "credit_line": first_entry.get("credit_line", ""),
-            "publication_history": first_entry.get("publication_history", ""),
-            "exhibition_history": first_entry.get("exhibition_history", ""),
-            "provenance_text": first_entry.get("provenance_text", ""),
-            "latitude": first_entry.get("latitude", ""),
-            "longitude": first_entry.get("longitude", ""),
-            "artwork_type_title": first_entry.get("artwork_type_title", ""),
-            "department_title": first_entry.get("department_title", ""),
-            "artist_title": first_entry.get("artist_title", ""),
-            "category_titles": first_entry.get("category_titles", ""),
-            "material_titles": first_entry.get("material_titles", ""),
-            "image_id": first_entry.get("image_id", "")
-        }
-        return selected_columns
-    else:
-        return "The database is empty."
-
+def show_columns(entry):
+    selected_columns = {
+        "id": entry.get("id", ""),
+        "title": entry.get("title", ""),
+        "main_reference_number": entry.get("main_reference_number", ""),
+        "date_start": entry.get("date_start", ""),
+        "date_end": entry.get("date_end", ""),
+        "date_display": entry.get("date_display", ""),
+        "artist_display": entry.get("artist_display", ""),
+        "place_of_origin": entry.get("place_of_origin", ""),
+        "description": entry.get("description", ""),
+        "dimensions": entry.get("dimensions", ""),
+        "medium_display": entry.get("medium_display", ""),
+        "credit_line": entry.get("credit_line", ""),
+        "publication_history": entry.get("publication_history", ""),
+        "exhibition_history": entry.get("exhibition_history", ""),
+        "provenance_text": entry.get("provenance_text", ""),
+        "latitude": entry.get("latitude", ""),
+        "longitude": entry.get("longitude", ""),
+        "artwork_type_title": entry.get("artwork_type_title", ""),
+        "department_title": entry.get("department_title", ""),
+        "artist_title": entry.get("artist_title", ""),
+        "category_titles": entry.get("category_titles", ""),
+        "material_titles": entry.get("material_titles", ""),
+        "image_id": entry.get("image_id", "")
+    }
+    return selected_columns
 
 def delete_information():
     artwork_id = int(input("Enter Artwork's ID: "))
     deleted = False  # To track whether any entry has been deleted
-    for entry in data["data"]:  # Use a copy of the list for safe removal
+    for entry in data["data"]:
         if entry["id"] == artwork_id:
             print(entry)
             check_deletion = input("Delete this element of the database? Y/N: ")
@@ -50,7 +44,7 @@ def delete_information():
                 data["data"].remove(entry)  # Remove the entire entry
                 deleted = True
                 print(f"Information for {artwork_id} deleted successfully.")
-    
+
     if not deleted:
         return f"No information found for {artwork_id}."
 
@@ -58,12 +52,9 @@ def delete_information():
     with open("artworks_100.json", "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=2)
 
-
 def generate_id():
     # Generate a random integer ID between 10000 and 9999999
-    # return str(random.randint(10000, 999999))
     return random.randint(10000, 999999)
-
 
 def add_new_entry():
     new_entry = {}
@@ -97,27 +88,12 @@ def add_new_entry():
     with open("artworks_100.json", "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=2)
 
-# def modify_information():
-#     artwork_id = int(input("Enter Artwork's ID: "))
-#     for entry in data["data"]:
-#         if entry["id"] == artwork_id:
-#             print(show_columns(artwork_id))
-#             attribute = input("Enter the attribute from above to modify: ")
-#             if attribute in entry:
-#                 new_value = input(f"Enter new value for {attribute}: ")
-#                 entry[attribute] = new_value
-#                 return f"Information for {artwork_id} updated successfully."
-#             else:
-#                 return f"Invalid attribute: {attribute}"
-#     return f"No information found for {artwork_id}."
-
 def modify_information():
     artwork_id = int(input("Enter Artwork's ID: "))
-    print(artwork_id)
     for entry in data["data"]:
         if entry["id"] == artwork_id:
+            print(show_columns(entry))  # Pass the entry to show_columns
             while True:
-                # print(show_columns(artwork_id))
                 attribute = input("Enter the attribute from above to modify (or 'done' to exit): ")
                 if attribute == 'done':
                     break
@@ -132,11 +108,9 @@ def modify_information():
             with open("artworks_100.json", "w", encoding="utf-8") as json_file:
                 json.dump(data, json_file, indent=2)
             return  # Exit the function after saving
-    return f"No information found for {artwork_id}."
-
+    return f"No information found for {artwork_id}"
 
 while True:
-
     print("\nOptions:")
     print("1. Add Information")
     print("2. Delete Information")
@@ -144,7 +118,7 @@ while True:
     print("4. Show columns")
     print("6. Exit")
 
-    choice = input("ARTIC db> ").lower()  # Convert the input to lowercase for case-insensitive matching
+    choice = input("ARTIC db> ").lower()
 
     if any(keyword in choice for keyword in ["add", "insert", "create"]):
         print(add_new_entry())
@@ -152,16 +126,17 @@ while True:
         print(delete_information())
     if any(keyword in choice for keyword in ["modify", "change", "alter", "edit"]):
         print(modify_information())
-    if any(keyword in choice for keyword in ["columns", "show", "display"]):
-        print(show_columns())
+    elif any(keyword in choice for keyword in ["columns", "show", "display"]):
+        if data["data"]:
+            entry_id = int(input("Enter the ID of the artwork to display: "))
+            entry = next((entry for entry in data["data"] if entry["id"] == entry_id), None)
+            if entry:
+                print(show_columns(entry))
+            else:
+                print(f"No information found for Artwork ID {entry_id}.")
+        else:
+            print("The database is empty.")
     elif "exit" in choice:
         break
     else:
         print("Invalid choice. Please select a valid option.")
-
-
-# # Save the updated data to a file
-# with open("artworks_100.json", "w") as json_file:
-#     json.dump(data, json_file, indent=2)
-
-# print("Goodbye!")
