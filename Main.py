@@ -97,26 +97,68 @@ def add_new_entry():
     with open("artworks_100.json", "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=2)
 
+# def modify_information():
+#     artwork_id = int(input("Enter Artwork's ID: "))
+#     for entry in data["data"]:
+#         if entry["id"] == artwork_id:
+#             print(show_columns(artwork_id))
+#             attribute = input("Enter the attribute from above to modify: ")
+#             if attribute in entry:
+#                 new_value = input(f"Enter new value for {attribute}: ")
+#                 entry[attribute] = new_value
+#                 return f"Information for {artwork_id} updated successfully."
+#             else:
+#                 return f"Invalid attribute: {attribute}"
+#     return f"No information found for {artwork_id}."
+
+def modify_information():
+    artwork_id = int(input("Enter Artwork's ID: "))
+    print(artwork_id)
+    for entry in data["data"]:
+        if entry["id"] == artwork_id:
+            while True:
+                # print(show_columns(artwork_id))
+                attribute = input("Enter the attribute from above to modify (or 'done' to exit): ")
+                if attribute == 'done':
+                    break
+                if attribute in entry:
+                    new_value = input(f"Enter new value for {attribute}: ")
+                    entry[attribute] = new_value
+                    print(f"{attribute} for {artwork_id} updated successfully.")
+                else:
+                    print(f"Invalid attribute: {attribute}")
+            print(f"Information for {artwork_id} updated successfully.")
+            # Save the updated data back to the file
+            with open("artworks_100.json", "w", encoding="utf-8") as json_file:
+                json.dump(data, json_file, indent=2)
+            return  # Exit the function after saving
+    return f"No information found for {artwork_id}."
+
+
 while True:
 
     print("\nOptions:")
     print("1. Add Information")
     print("2. Delete Information")
-    print("3. columns")
+    print("3. Modify Information")
+    print("4. Show columns")
     print("6. Exit")
 
-    choice = input("ARTIC db> ")
+    choice = input("ARTIC db> ").lower()  # Convert the input to lowercase for case-insensitive matching
 
-    if "add" in choice.lower():
+    if any(keyword in choice for keyword in ["add", "insert", "create"]):
         print(add_new_entry())
-    if "delete" in choice.lower():
+    if any(keyword in choice for keyword in ["delete", "remove", "erase"]):
         print(delete_information())
-    if "columns" in choice.lower():
+    if any(keyword in choice for keyword in ["modify", "change", "alter", "edit"]):
+        print(modify_information())
+    if any(keyword in choice for keyword in ["columns", "show", "display"]):
         print(show_columns())
-    elif "exit" in choice.lower():
+    elif "exit" in choice:
         break
     else:
         print("Invalid choice. Please select a valid option.")
+
 
 # # Save the updated data to a file
 # with open("artworks_100.json", "w") as json_file:
