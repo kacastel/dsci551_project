@@ -4,11 +4,14 @@ import csv
 # Specify the ODATA API URL
 odata_url = "https://data.sandiegocounty.gov/api/odata/v4/dyzh-7eat"
 
-# Specify the number of rows you want to retrieve (e.g., 10 rows)
+# Specify the number of rows you want to retrieve (e.g., 100 rows)
 top_count = 100
 
-# Define the query parameters with $top
-params = {"$top": top_count}
+# Define the query parameters with $top and $select
+params = {
+    "$top": top_count,
+    "$select": "id,record_id,open_date,issued_date,record_status,record_group,record_type,record_subtype,record_category,primary_scope_code,use,homeowner_biz_owner,street_address,city,state,zip_code,full_address,parcel_number,valuation,floor_area,contractor_name,contractor_address,contractor_phone,created_online,last_updated,geocoded_column"
+}
 
 try:
     # Send a GET request to the ODATA API
