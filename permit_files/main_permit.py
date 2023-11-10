@@ -20,6 +20,7 @@ def save_data():
         csv_writer.writerows(data)
 
 desired_columns = [
+    # Include columns needed for Query 1
     "id", "record_id", "open_date", "issued_date", "record_status", 
     "record_group", "record_type", "record_subtype", "record_category", 
     "primary_scope_code", "use", "homeowner_biz_owner", "street_address", 
@@ -107,6 +108,46 @@ def modify_information():
     if not modified_entry:
         print(f"No information found for Permit ID {permit_id}.")
 
+
+def query_csv(file_path, query):
+    # Load CSV data into a list of dictionaries
+    with open(file_path, 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        data = list(reader)
+
+    # Parse the SQL-like query
+    select_index = query.find("select")
+    from_index = query.find("from")
+    where_index = query.find("where")
+
+    # Extract selected columns
+    selected_columns = [col.strip() for col in query[select_index + 6:from_index].split(',')]
+
+    # Extract table name
+    table_name = query[from_index + 4:where_index].strip()
+
+    # Extract WHERE clause
+    where_clause = query[where_index + 5:].strip()
+
+    # Apply filters based on WHERE clause
+    filtered_data = data
+    if where_clause:
+        # Split conditions based on 'and'
+        conditions = where_clause.split('and')
+        for condition in conditions:
+            condition = condition.strip()
+            filter_conditions = condition.split('=')
+            column_to_filter = filter_conditions[0].strip()
+            filter_value = filter_conditions[1].strip().replace("'", "")
+
+            # Apply the filter for each condition
+            filtered_data = [row for row in filtered_data if row.get(column_to_filter) == filter_value]
+
+    # Prepare and print the projection
+    for row in filtered_data:
+        projection = {col: row[col] for col in selected_columns}
+        print(projection)
+
 load_data()
 
 while True:
@@ -115,7 +156,8 @@ while True:
     print("2. Add data")
     print("3. Modify data")
     print("4. Delete data")
-    print("5. Exit")
+    print("5. Query CSV data")  # Option for Query 1
+    print("6. Exit")
 
     choice = input("Permits db> ").lower()
 
@@ -140,6 +182,13 @@ while True:
 
     elif "delete" in choice:
         delete_information()
+
+    # elif "query" in choice or "select" in choice:
+    elif "query" in choice:
+
+        # Option for Query 1
+        user_query = input("Enter the SQL-like query: ")
+        query_csv(csv_file_path, user_query)
 
     elif "exit" in choice:
         break
