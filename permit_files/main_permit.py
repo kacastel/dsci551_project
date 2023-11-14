@@ -1,6 +1,8 @@
 import csv
 import random
 import string
+import re
+import numpy as np
 
 # Load CSV Data
 data = []
@@ -109,54 +111,138 @@ def modify_information():
         print(f"No information found for Permit ID {permit_id}.")
 
 
-def query_csv(file_path, query):
-    # Load CSV data into a list of dictionaries
-    with open(file_path, 'r') as csvfile:
-        reader = csv.DictReader(csvfile)
-        data = list(reader)
+# Function to evaluate the WHERE condition
+def evaluate_condition(row, condition):
+    operators = ['>', '<', '>=', '<=', '=', '!=']
+    for operator in operators:
+        if operator in condition:
+            column, value = condition.split(operator)
+            column = column.strip()
+            value = value.strip()
 
-    # Parse the SQL-like query
-    select_index = query.find("select")
-    from_index = query.find("from")
-    where_index = query.find("where")
+            if operator == '=':
+                operator = '=='
 
-    # Extract selected columns
-    selected_columns = [col.strip() for col in query[select_index + 6:from_index].split(',')]
+            if '*' in value:
+                # If the value contains "*", perform wildcard matching
+                value_pattern = value.replace('*', '.*')
+                if re.match(value_pattern, row.get(column)) is not None:
+                    return True
+            else:
+                # Perform standard comparison with conversion for "valuation" column
+                if column in row:
+                    if column == "valuation":
+                        try:
+                            row_value = float(row[column])
+                            value = float(value)
+                            if eval(f'{row_value} {operator} {value}'):
+                                return True
+                        except ValueError:
+                            # Handle the case where the "valuation" column cannot be converted to a numeric type
+                            pass
+                    else:
+                        if eval(f'"{row[column]}" {operator} "{value}"'):
+                            return True
+    return False
 
-    # Extract table name
-    table_name = query[from_index + 4:where_index].strip()
+# Function to group data by a column
+def group_by_column(data, column_name, aggregate_function):
+    grouped_data = {}
+    for row in data:
+        key = row.get(column_name)
+        if key not in grouped_data:
+            grouped_data[key] = []
 
-    # Extract WHERE clause
-    where_clause = query[where_index + 5:].strip()
+        # Convert the valuation to a numeric value, or use None if conversion fails
+        valuation = row.get('valuation')
+        try:
+            valuation = float(valuation) if valuation else None
+        except ValueError:
+            valuation = None
 
-    # Apply filters based on WHERE clause
+        grouped_data[key].append(valuation)
+
+    grouped_results = []
+    for key, values in grouped_data.items():
+        # Filter out None values for aggregation
+        filtered_values = [v for v in values if v is not None]
+
+        if aggregate_function:
+            if aggregate_function == 'max':
+                result = max(filtered_values) if filtered_values else None
+            elif aggregate_function == 'min':
+                result = min(filtered_values) if filtered_values else None
+            elif aggregate_function == 'avg':
+                result = np.mean(filtered_values) if filtered_values else None
+            elif aggregate_function == 'sum':
+                result = sum(filtered_values) if filtered_values else None
+            elif aggregate_function == 'count':
+                result = len(filtered_values)
+        else:
+            result = filtered_values
+
+        grouped_results.append({column_name: key, aggregate_function.capitalize() if aggregate_function else "Data": result})
+
+    return grouped_results
+
+
+# Function to query the dataset based on user input
+def query_permit_data(dataset_path, user_input, group_by=None, aggregate_function=None, sort_order=None):
+    # Read the CSV dataset
+    data = []
+    with open(dataset_path, 'r', newline='') as csvfile:
+        csvreader = csv.DictReader(csvfile)
+        for row in csvreader:
+            data.append(row)
+
+    # Split the user input into query components
+    query_components = re.split(r'\s+', user_input)
+    select_clause = query_components[1:query_components.index('from')]
+    from_clause = query_components[query_components.index('from') + 1]
+    where_index = query_components.index('where') if 'where' in query_components else None
+
+    # Filter the dataset based on the WHERE clause if present
     filtered_data = data
-    if where_clause:
-        # Split conditions based on 'and'
-        conditions = where_clause.split('and')
-        for condition in conditions:
-            condition = condition.strip()
-            filter_conditions = condition.split('=')
-            column_to_filter = filter_conditions[0].strip()
-            filter_value = filter_conditions[1].strip().replace("'", "")
+    if where_index is not None:
+        where_clause = ' '.join(query_components[where_index + 1:])
+        filtered_data = [row for row in data if evaluate_condition(row, where_clause)]
 
-            # Apply the filter for each condition
-            filtered_data = [row for row in filtered_data if row.get(column_to_filter) == filter_value]
-
-    # Prepare and print the projection
+    # Extract the SELECTed columns from the filtered data
+    selected_data = []
     for row in filtered_data:
-        projection = {col: row[col] for col in selected_columns}
-        print(projection)
+        row_data = {}
+        for column in select_clause:
+            row_data[column] = row[column]
+        selected_data.append(row_data)
 
+    if group_by is not None:
+        grouped_results = group_by_column(selected_data, group_by, aggregate_function)
+    else:
+        grouped_results = selected_data
+
+    # Sorting the results if sort_order is specified
+    if sort_order is not None and aggregate_function is not None:
+        try:
+            if sort_order.lower() == 'asc':
+                grouped_results.sort(key=lambda x: (x[aggregate_function.capitalize()] is None, x[aggregate_function.capitalize()]))
+            elif sort_order.lower() == 'desc':
+                grouped_results.sort(key=lambda x: (x[aggregate_function.capitalize()] is None, x[aggregate_function.capitalize()]), reverse=True)
+        except KeyError:
+            print("Invalid sort_order or aggregate_function")
+
+    return grouped_results
+
+# Load initial data
 load_data()
 
+# Main loop
 while True:
     print("\nOptions:")
     print("1. Show columns")
     print("2. Add data")
     print("3. Modify data")
     print("4. Delete data")
-    print("5. Query CSV data")  # Option for Query 1
+    print("5. Query data")  # Option for Query 1
     print("6. Exit")
 
     choice = input("Permits db> ").lower()
@@ -184,11 +270,27 @@ while True:
         delete_information()
 
     # elif "query" in choice or "select" in choice:
-    elif "query" in choice:
+    # elif "query" in choice:
 
-        # Option for Query 1
+    #     # Option for Query 1
+    #     user_query = input("Enter the SQL-like query: ")
+    #     query_csv(csv_file_path, user_query)
+
+    elif "query" in choice:
         user_query = input("Enter the SQL-like query: ")
-        query_csv(csv_file_path, user_query)
+        group_by_column_name = input("Enter column to group by (or leave blank for none): ")
+        aggregate_function = input("Enter aggregate function (max, min, avg, sum, count, or leave blank for none): ")
+        sort_order = input("Enter sort order (asc, desc, or leave blank for none): ")
+
+        group_by_column_name = None if not group_by_column_name else group_by_column_name
+        aggregate_function = None if not aggregate_function else aggregate_function
+        sort_order = None if not sort_order else sort_order
+
+        results = query_permit_data(csv_file_path, user_query, group_by=group_by_column_name, aggregate_function=aggregate_function, sort_order=sort_order)
+        for result in results:
+            for column, value in result.items():
+                print(f'{column}: {value}')
+            print('-' * 20)
 
     elif "exit" in choice:
         break
