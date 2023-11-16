@@ -1,0 +1,513 @@
+id,record_id,open_date,issued_date,record_status,record_group,record_type,record_subtype,record_category,primary_scope_code,use,homeowner_biz_owner,street_address,city,state,zip_code,full_address,parcel_number,valuation,floor_area,contractor_name,contractor_address,contractor_phone,created_online,last_updated,geocoded_column
+44884,PDS2013-RESALT-007197,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"CROSS STREET: Corral Canyon Road
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PLAN CHANGE 12/12/13- See C of A...ADP
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,6007 BLACKSMITH RD,BONITA,CA,91902,"6007 BLACKSMITH RD, BONITA, CA 91902",594-240-39-00,,,SOLARCITY CORPORATION,"3055 CLEARVIEW WAY, SAN MATEO, CA 94402",650 963-5630,TRUE,2013-12-03T15:55:13.000,"{'type': 'Point', 'coordinates': [-116.99930747628974, 32.66693181200943]}"
+44871,PDS2013-MHPARK-000239,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Construction in a MH Park,1158 - M.H.P. - 902 - Installation - New Or Existing,"Park Name:   CHAMPAGNE VILLAGE 
+Park I.D. No.37- 0362       Space No.:119      Map ref: 1089 B3
+Community: ESCONDIDO
+Description:  INSTALL A REPLACEMENT MH ON FOUNDATION SYSTEM -- 433A(SPA92-2F) AND GARAGE (SPA 240-2)
+
+
+Note to permittee: ONCE THIS PERMIT IS ISSUED IT WILL BE VALID FOR SIX MONTHS. Work must commence and a valid inspection performed within six months of issuance. No extension shall be granted where work has not started prior to expiration of the initial permit. Upon payment of fees, a permit extension of six months may be granted. No permit shall be extended more than two years from issuance of the initial permit to construct.",,8975 LAWRENCE WELK DR 119,ESCONDIDO,CA,92026,"8975 LAWRENCE WELK DR 119, ESCONDIDO, CA 92026",185-332-09-66,,,COASTLINE CONSTRUCTION & AWNING CO INC,"5742-44 RESEARCH DRIVE, HUNTINGTON BEACH, CA 92649",714 891-9798,FALSE,2013-12-03T09:01:24.000,
+44913,PDS2013-RESALT-007205,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: S MISSION RD.
+
+Description of Work: HVAC CHANGE OUT (INC. FURNACE AND COND UNIT)",FALSE,676 POETS SQUARE,SAN DIEGO,CA,92127,"676 POETS SQUARE, SAN DIEGO, CA 92127",104-412-03-00,12601,2414,W C HEATING & AIR CONDITIONING INC,"41357 DATE ST, MURRIETA, CA 92562",951 600-0700,FALSE,2013-12-03T14:40:43.000,"{'type': 'Point', 'coordinates': [-117.25522062911821, 33.36636453222622]}"
+44878,PDS2013-RESALT-007202,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8040 - ACC - Electrical & Mechanical,"Cross Street: RIVERSIDE DR.
+
+Description of Work: REPLACE FURNACE, INSTALL NEW AC UNIT, SOME DUCTWORK",FALSE,11710 RIO CORTO DR,LAKESIDE,CA,92040,"11710 RIO CORTO DR, LAKESIDE, CA 92040",379-171-02-00,8874,1700,M N MAUZY MECHANICAL INC,"1551 N CUYAMACA STREET, EL CAJON, CA 92020",619 583-9545,FALSE,2013-12-03T14:37:04.000,"{'type': 'Point', 'coordinates': [-116.93968954100143, 32.86593949664357]}"
+44880,PDS2013-RESACC-000628,2013-12-03T00:00:00.000,2013-12-04T00:00:00.000,Issued Expired,LUEG-PDS,Building,PC-Permit,New Residential Acc Structure,3313 - ACC - Retaining Walls,"Cross street: Las Colinas
+
+Description of Work: 525 sqft County standard retaining wall for grading (PDS2013-RESGRD-0000060)
+
+See record # PDS2013-RESPRI-000190 for SFD",TRUE,16924 AVENIDA LUIS,RANCHO SANTA FE,CA,92067,"16924 AVENIDA LUIS, RANCHO SANTA FE, CA 92067",266-360-22-00,,,,,,FALSE,2013-12-03T14:50:56.000,"{'type': 'Point', 'coordinates': [-117.19155929859262, 33.017865375543]}"
+44911,PDS2013-RESALT-007208,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street:SAN PABLO DR.
+
+Description of Work: REPLACE FURNACE",FALSE,1210 LA GRANADA DR,SAN MARCOS,CA,92069,"1210 LA GRANADA DR, SAN MARCOS, CA 92069",222-501-03-00,11567,2216,A S I HASTINGS INC,"4870 VIEWRIDGE AVENUE #200, SAN DIEGO, CA 92123",619 590-9300,FALSE,2013-12-03T14:58:07.000,"{'type': 'Point', 'coordinates': [-117.19476349166726, 33.11993111112353]}"
+44879,PDS2013-RESALT-007188,2013-12-03T00:00:00.000,2014-02-18T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,4340 - RES - Addition/Alter To SFD/Duplex,"Cross street: Sycamore Ave
+
+Description of Work: 476 sqft 1-story addition to existing SFD (Master bedroom, bathroom, walk-in-closet). Major interior remodel to include relocating bathroom, reconfiguring kitchen, convert room to den w/ 106 LF interior partitions (MIsc EPM). 228 sqft attached deck and 141 sqft trellis.
+
+07-02-14 Panel upgrade 100amp to 200amp...See COA...T.H",FALSE,2367 PRIMROSE AVE,VISTA,CA,92083,"2367 PRIMROSE AVE, VISTA, CA 92083",217-031-09-00,85034,845,,,,FALSE,2013-12-03T11:00:57.000,"{'type': 'Point', 'coordinates': [-117.20961842096311, 33.167963115798536]}"
+44901,PDS2013-RESALT-007180,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street: El Granito
+
+Description of Work: Misc elect panel upgrade to 200 amps (solar under seperate permit pds2013-resalt-005428)",FALSE,9554 SUNSET AVE,LA MESA,CA,91941,"9554 SUNSET AVE, LA MESA, CA 91941",491-520-41-00,,,,,,FALSE,2013-12-03T09:17:07.000,"{'type': 'Point', 'coordinates': [-116.99197181223212, 32.775425473252255]}"
+44876,PDS2013-COMALT-000671,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Commercial Alteration-Addn,8000 - ACC - Electrical Only,"Cross street:  CAMINO SAN BERNARDO
+
+Description of Work: MISC ELECTRICAL, NEW TRANSFORMER (FIRST FLOOR) FOR ""CYMER, INC"".",FALSE,17082 THORNMINT CT,SAN DIEGO,CA,92127,"17082 THORNMINT CT, SAN DIEGO, CA 92127",678-291-35-00,,,ANDERSON & HOWARD ELECTRIC INC,"1791 REYNOLDS AVE, IRVINE, CA 92614",949 250-4555,FALSE,2013-12-03T11:34:23.000,"{'type': 'Point', 'coordinates': [-117.09952013875068, 33.018602167324225]}"
+134173,PDS2008-1001-20080170,2008-02-14T00:00:00.000,,PC Expired,LUEG-PDS,Building,PC-Permit,New Primary Residential SFD-MH,1010 - RES - New Primary Residential Structure,"Cross street:      BUCKMAN SPRINGS RD              Foundation: SLAB          
+
+Description of Work:    3041 SQ FT 2-STORY SFD W/AC AND F/S AND 692 SQ FT ATTACHED GAR & 912  SQ FT 2nd DWELLING W/A/C AND F/S AND 375 SQ FT ATTACHED GARAGE, & 1280 SQ FT DETACHED GARAGE & TEMP POWER AND TEMP OCC
+
+12-29-09:   PURGED PKG....DAA
+
+TWO 200 AMP METERS
+ADDRESS FOR 2ND DWELLING:   2535 CAMERON TRUCK TRAIL",,2533 CAMERON TRUCK TRL,CAMPO,CA,91906,"2533 CAMERON TRUCK TRL, CAMPO, CA 91906",606-150-30-00,499101,6300,,,,FALSE,2012-11-18T10:51:05.000,
+44890,PDS2013-RESALT-007218,2013-12-03T00:00:00.000,2014-01-22T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,"3310 - RES - Misc. (Antennas, Tennis Cts, Gazebo)","Cross street:  San Miguel rd
+
+Description of Work:  ""As-built"" 62 sqft pool bathroom in detached garage",FALSE,5559 AMADITA LN,BONITA,CA,91902,"5559 AMADITA LN, BONITA, CA 91902",590-420-07-00,1530,,MLG PROPERTIES,"3827 CENTRALOMA DRIVE, SAN DIEGO, CA 92107",619 417-6538,FALSE,2014-01-22T14:53:55.000,"{'type': 'Point', 'coordinates': [-117.01333372504665, 32.67598831954526]}"
+44895,PDS2013-RESALT-007194,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: LA CRESTA BLVD
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,237 ALAMO WAY,EL CAJON,CA,92021,"237 ALAMO WAY, EL CAJON, CA 92021",509-150-57-00,,,MATT ASHWELL ELECTRIC,"232 WEST ESCALONES, SAN CLEMENTE, CA 92672",949 441-9925,FALSE,2013-12-03T12:41:43.000,"{'type': 'Point', 'coordinates': [-116.86248063219709, 32.811821309526366]}"
+44892,PDS2013-RESALT-007200,2013-12-03T00:00:00.000,2013-12-04T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: sweetwater rd.
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,2824 DEGEN DR,BONITA,CA,91902,"2824 DEGEN DR, BONITA, CA 91902",590-441-16-00,,,SOLAR WEST ELECTRIC INC,"2640 FINANCIAL COURT SUITE D, SAN DIEGO, CA 92117",858 750-2995,TRUE,2013-12-04T07:23:02.000,"{'type': 'Point', 'coordinates': [-117.0204137631296, 32.68464707594672]}"
+44912,PDS2013-RESALT-007215,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street:BUGGYWHIP DR.
+
+Description of Work:PANEL UPGRADE 125A",FALSE,2452 DOUBLETREE RD,SPRING VALLEY,CA,91978,"2452 DOUBLETREE RD, SPRING VALLEY, CA 91978",506-061-08-00,,,A S I HASTINGS INC,"4870 VIEWRIDGE AVENUE #200, SAN DIEGO, CA 92123",619 590-9300,FALSE,2013-12-03T15:30:29.000,"{'type': 'Point', 'coordinates': [-116.95918392487366, 32.728780863268874]}"
+7175,PDS2016-RESACC-000559,2016-08-31T00:00:00.000,,PC Invalid Expired,LUEG-PDS,Building,PC-Permit,New Residential Acc Structure,,,,,,,,,,,,,,,FALSE,2016-08-31T09:13:28.000,
+44898,PDS2013-RESALT-007185,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: SKYLINE TRUCK TR. AND LYONS VALLEY RD.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV AND DERATE ELECTRIC PANEL FROM 200A-175A FOR EXISTING SFD
+
+PLAN CHANGE: NEW MSP 225A AND EXISTING MSP TO BE CONVERTED TO SUBPANEL.
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3151 PLEASANT VIEW LN,JAMUL,CA,91935,"3151 PLEASANT VIEW LN, JAMUL, CA 91935",596-173-65-00,,,MILHOLLAND ELECTRIC INC,"9169 CHESAPEAKE DR, SAN DIEGO, CA 92123",858 541-1097,FALSE,2013-12-03T10:39:12.000,"{'type': 'Point', 'coordinates': [-116.85767679427855, 32.7255539162185]}"
+44900,PDS2013-RESPRI-000309,2013-12-03T00:00:00.000,2014-07-25T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Primary Residential SFD-MH,1010 - RES - New Primary Residential Structure,"Cross street:  Road to Rio                  Foundation: SLAB       
+
+Description of Work: 5314 sqft 2-Story, 1120 sqft Attached Garage, 445 sqft Patio Cover, 108 sqft Entry Porch, 400 amps and Temp Power  
+
+Notice to Permittee: Temp power shall be inspected prior to framing inspection
+
+6/15/2016 Plan Change. Remove retaining wall. See Comments in C of A... SS",FALSE,7604 TOP O THE MORNING WAY,SAN DIEGO,CA,92127,"7604 TOP O THE MORNING WAY, SAN DIEGO, CA 92127",267-210-13-00,774556,6987,HAMPEL CONSTRUCTION INC,"P O BOX 9084, RANCHO SANTA FE, CA 92067",858 832-1307,FALSE,2015-02-06T16:18:00.000,"{'type': 'Point', 'coordinates': [-117.16394681818934, 33.02211354240823]}"
+44897,PDS2013-RESALT-007177,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street:Rancho Santa Teresa
+
+Description of Work:  Misc Elec to replace 200 AMP service and add transfer panel for existing sfd",FALSE,24830 OAKANA RD,RAMONA,CA,92065,"24830 OAKANA RD, RAMONA, CA 92065",286-170-01-00,,,NORTH PEAK ELECTRIC INC,"16209 OAKLEY ROAD, RAMONA, CA 92065",760 440-9992,FALSE,2013-12-03T08:29:58.000,"{'type': 'Point', 'coordinates': [-116.7940024563608, 33.074013461532886]}"
+44882,PDS2013-RESALT-007190,2013-12-03T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: HOWELL ST. 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV  AND 200A ELECTRICAL SERVICE PANEL UPGRADEFOR EXISTING SFD
+
+12.10.2013: PLAN CHANGE - SLIP SHEETED PAGE PV3.0R(sgilmore)
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,287 SAWDAY ST,RAMONA,CA,92065,"287 SAWDAY ST, RAMONA, CA 92065",282-040-29-00,,,MILHOLLAND ELECTRIC INC,"9169 CHESAPEAKE DR, SAN DIEGO, CA 92123",858 541-1097,FALSE,2013-12-03T11:18:43.000,"{'type': 'Point', 'coordinates': [-116.90050180820067, 33.031108313034096]}"
+44936,PDS2013-RESACC-000623,2013-12-02T00:00:00.000,2013-12-05T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Residential Acc Structure,3313 - ACC - Retaining Walls,"Cross street: Lakeview
+
+Description of Work: County Standard- 784 sqft retaining wall for existing SFD",TRUE,13208 VISTA LADERO,LAKESIDE,CA,92040,"13208 VISTA LADERO, LAKESIDE, CA 92040",397-082-43-00,29008,784,,,,FALSE,2013-12-02T11:12:33.000,"{'type': 'Point', 'coordinates': [-116.90767628659121, 32.84489266523737]}"
+44961,PDS2013-RESALT-007170,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8010 - ACC - Plumbing Only,"Cross street: Gilford Ct
+
+Description of Work: Sewer repair- Install 2 way clean outs",FALSE,1247 DARBY ST,SPRING VALLEY,CA,91977,"1247 DARBY ST, SPRING VALLEY, CA 91977",577-572-03-00,,,A R S AMERICAN RESIDENTIAL SERVICES OF CALIFORNIA INC,"965 RIDGE LAKE BLVD STE 201, MEMPHIS, TN 38120",510 729-6044,FALSE,2013-12-02T15:18:54.000,"{'type': 'Point', 'coordinates': [-117.01904018252014, 32.7177042262207]}"
+63667,PDS2011-1007-20110655,2011-09-20T00:00:00.000,2011-09-20T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street:  12TH STREET
+
+Description of Work:  100 AMP METER PEDESTAL FOR AT&T
+
+EXCAVATION PERMIT:  E-89474
+
+**MP ADDRESS 1212-A H STREET**",,1212 H ST 199,RAMONA,CA,92065,"1212 H ST 199, RAMONA, CA 92065",282-290-12-00,,,,,,FALSE,2012-11-18T11:16:27.000,
+44974,PDS2013-RESALT-007139,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: E. Lakeview
+
+Description of Work: Misc Mechanical for Furnace only replacement for existing SFD",FALSE,9365 LAKEVIEW RD,LAKESIDE,CA,92040,"9365 LAKEVIEW RD, LAKESIDE, CA 92040",397-090-01-00,,,GEORGE'S HEATING AND AIR CONDITIONING,"6070 HOWELL DRIVE, LA MESA, CA 91942-3826",619 741-3600,FALSE,2013-12-02T08:53:01.000,"{'type': 'Point', 'coordinates': [-116.90532003282185, 32.84755298093269]}"
+44960,PDS2013-RESALT-007143,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street:  Rosedale Dr
+
+Description of Work:  'FICO' Misc Mech to replace FAU/AC and 100 SF Window Replacement, 100 SF Exterior Siding for existing sfd",FALSE,2920 ROSEDALE CT,SPRING VALLEY,CA,91977,"2920 ROSEDALE CT, SPRING VALLEY, CA 91977",504-171-21-00,4505,201,,,,FALSE,2013-12-02T09:39:01.000,"{'type': 'Point', 'coordinates': [-117.00389294614374, 32.73653905782705]}"
+44943,PDS2013-RESALT-007175,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: Hillsdale Rd
+
+Description of Work: Replace 2 split system , furnaces, coils, condensers and ducts",FALSE,1805 ELAN LN,EL CAJON,CA,92019,"1805 ELAN LN, EL CAJON, CA 92019",518-150-10-00,7830,1500,,,,FALSE,2013-12-02T15:54:11.000,"{'type': 'Point', 'coordinates': [-116.90321476095667, 32.75800579024022]}"
+44962,PDS2013-RESALT-007156,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street: Valley View Blvd
+
+Description of Work: Misc Elect to replace panel to accommodate solar ( solar under pds2013-resalt-006785)",FALSE,2285 EUCLID AVE,EL CAJON,CA,92019,"2285 EUCLID AVE, EL CAJON, CA 92019",512-170-03-00,,,,,,FALSE,2013-12-02T13:10:53.000,"{'type': 'Point', 'coordinates': [-117.07730446283041, 32.66992786599315]}"
+44942,PDS2013-RESALT-007146,2013-12-02T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET:_OAK GROVE ROAD______________ 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,19320 RANGELAND RD,RAMONA,CA,92065,"19320 RANGELAND RD, RAMONA, CA 92065",276-060-25-00,,,PURE ENERGY SOLAR SYSTEMS INC,"P O BOX 582, RAMONA, CA 92065",760 788-0097,TRUE,2013-12-03T09:00:25.000,"{'type': 'Point', 'coordinates': [-116.92655500810855, 33.06927684075459]}"
+44933,PDS2013-RESPRI-000306,2013-12-02T00:00:00.000,2014-01-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Primary Residential SFD-MH,1140 - RES - M.H. On Permanent Fnd. (Private Lot),"Cross street: Sunshine Valley Rd
+
+Description of Work: 1635 sqft MH (433a), 200 amps and 100 amp ag well meter (25048 ""A"" Agrarian rd)
+
+04.18.2014: plan change, remove det garage to seperate permit see conditions of approval...LHG",FALSE,25048 AGRARIAN RD,RAMONA,CA,92065,"25048 AGRARIAN RD, RAMONA, CA 92065",286-020-42-00,236904,2035,B W S CONSTRUCTION INC,"1198 ALPINE OAKS DRIVE, ALPINE, CA 91901",619 445-4512,FALSE,2014-01-27T08:46:19.000,"{'type': 'Point', 'coordinates': [-116.79153159071899, 33.066758871843426]}"
+44934,PDS2013-RESPRI-000305,2013-12-02T00:00:00.000,2014-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Primary Residential SFD-MH,1010 - RES - New Primary Residential Structure,"Cross street:  Pine Hills Rd               Foundation: SLAB          
+
+Description of Work: 2-strory SFD with 1170 sqft SFD (2nd floor) and 1296 sqft Workshop/tackroom/breezeway, and 862 sqft Patio Cover, 216 sqft Decks, 200 amps (no connect to grid using Solar) and 4.4 kw Ground Mount Solar 
+
+Notice to Permittee: Temp power shall be inspected prior to framing inspection
+
+12/3/14 - courtesy plancheck extension per Carol G...djm",TRUE,2319 FRISIUS DR,JULIAN,CA,92036,"2319 FRISIUS DR, JULIAN, CA 92036",292-120-81-00,233551,3544,,,,FALSE,2013-12-02T10:43:01.000,"{'type': 'Point', 'coordinates': [-116.61071903862101, 33.0450256910369]}"
+44935,PDS2013-RESALT-007138,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: S. Woodson Dr
+
+Description of Work: Misc Mechanical for Furnace replacement for Existing SFD",FALSE,16952 OBSIDIAN DR,RAMONA,CA,92065,"16952 OBSIDIAN DR, RAMONA, CA 92065",278-491-14-00,500000,,CLASSIC COOLING HEATING AND AIR CONDITIONING,"19484 LAUREL LANE, RAMONA, CA 92065",760 522-1884,FALSE,2013-12-02T08:31:07.000,"{'type': 'Point', 'coordinates': [-116.96784071650819, 33.01755565051944]}"
+44967,PDS2013-RESALT-007164,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Red Canyon Dr. 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD + Electrical Upgrade
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,29722 RED MOUNTAIN DR,VALLEY CENTER,CA,92082,"29722 RED MOUNTAIN DR, VALLEY CENTER, CA 92082",185-230-54-00,,,ELITE ELECTRIC,"9415 BELLEGRAVE AVE, RIVERSIDE, CA 92509",951 681-5811,FALSE,2013-12-02T14:54:43.000,"{'type': 'Point', 'coordinates': [-117.07749359946492, 33.24999508447469]}"
+44968,PDS2013-RESALT-007157,2013-12-02T00:00:00.000,2014-10-24T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,4340 - RES - Addition/Alter To SFD/Duplex,"Cross street:  Oaktree
+
+Description of Work:  241 SF Addition to SFD, Office/Bath in Master Bdrm/,38 LF Walls for Minor Interior Remodel of Master Bath/Closet, and 196 SF Attached Workshop (exterior acess). Misc elec and plumbing for meter relocations.
+
+10/27/14 - Added Contractor to Record - MFV",FALSE,3607 LAKETREE DR,FALLBROOK,CA,92028,"3607 LAKETREE DR, FALLBROOK, CA 92028",124-310-20-00,46494,437,TERRACON GENERAL CONTRACTORS INC,"585 N TWIN OAKS VALLEY ROAD SUITE A, SAN MARCOS, CA 92069",760 471-5265,FALSE,2014-10-27T11:18:11.000,"{'type': 'Point', 'coordinates': [-117.18605554108258, 33.342533780965226]}"
+44965,PDS2013-RESALT-007169,2013-12-02T00:00:00.000,2013-12-03T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8015 - ACC - (Online) Plumbing - HRA Water Heater R&R,"PLEASE ENTER THE NEAREST CROSS STREET:_____GOPHER CANYON__________ 
+
+___REPLACE 50G WATER HEATER__________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) WATER HEATER REPLACEMENT, NO MODIFICATIONS OR ALTERNATIONS TO EXISTING SYSTEM",TRUE,30415 BELLA LINDA DR,VALLEY CENTER,CA,92082,"30415 BELLA LINDA DR, VALLEY CENTER, CA 92082",,,,WATER HEATERS ONLY INC,"970 E MAIN STREET #200, GRASS VALLEY, CA 95945",530 274-3001,TRUE,2013-12-02T15:08:44.000,"{'type': 'Point', 'coordinates': [-117.08096038800731, 33.26062317129489]}"
+44955,PDS2013-RESALT-007137,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8025 - ACC - (Online) Mechanical - HRA Electric Heat Pump/AC R&R,"PLEASE ENTER THE NEAREST CROSS STREET:VIA CALIENTE DEL SOL
+
+
+
+Description of Work: HRA (Online Permit) ELECTRIC HEAT PUMP AND/OR AIR CONDITIONER REPLACEMENT, NO MODIFICATIONS OR ALTERATIONS TO EXISTING SYSTEM.",TRUE,3271 RANCHO MIGUEL RD,JAMUL,CA,91935,"3271 RANCHO MIGUEL RD, JAMUL, CA 91935",519-250-32-00,,,WEST COAST APPLIANCE SERVICES INC,"1282 FAYETTE ST, EL CAJON, CA 92020",619 557-0446,TRUE,2013-12-02T09:46:22.000,"{'type': 'Point', 'coordinates': [-116.90588906140104, 32.73074457545085]}"
+44937,PDS2013-RESALT-007174,2013-12-02T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: Bing Crosby Blvd 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,16692 ROSE OF TRALEE LN,RANCHO SANTA FE,CA,92067,"16692 ROSE OF TRALEE LN, RANCHO SANTA FE, CA 92067",267-450-01-00,,,SOLARCITY CORPORATION,"3055 CLEARVIEW WAY, SAN MATEO, CA 94402",650 963-5630,TRUE,2013-12-03T07:59:48.000,"{'type': 'Point', 'coordinates': [-117.15923269651219, 33.0252803749482]}"
+44951,PDS2013-RESALT-007159,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street: East County Drive
+
+Description of Work: Misc Electrical for 125 amp panel upgrade  for existing sfd
+
+(solar under pds2013-resalt-004851)",FALSE,13632 STONYBROOK LN,EL CAJON,CA,92021,"13632 STONYBROOK LN, EL CAJON, CA 92021",401-201-21-00,,,N B BAKER ELECTRIC INC,"1298 PACIFIC OAKS PLACE, ESCONDIDO, CA 92029",760 745-2001,FALSE,2013-12-02T13:42:53.000,"{'type': 'Point', 'coordinates': [-116.89301450634017, 32.82801838284398]}"
+44938,PDS2013-RESALT-007153,2013-12-02T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: Mesa Crest Road
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,12679 AVNDA ANNALIE,VALLEY CENTER,CA,92082,"12679 AVNDA ANNALIE, VALLEY CENTER, CA 92082",129-162-32-00,,,SOLARCITY CORPORATION,"3055 CLEARVIEW WAY, SAN MATEO, CA 94402",650 963-5630,TRUE,2013-12-03T08:33:20.000,
+44949,PDS2013-RESALT-007158,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Rustic Villa Rd.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,20325 RANCHO VILLA RD,RAMONA,CA,92065,"20325 RANCHO VILLA RD, RAMONA, CA 92065",279-094-13-00,,,SOL FUSION INC,"20750 VENTURA BLVD STE 430, WOODLAND HILLS, CA 91364",818 538-9765,FALSE,2013-12-02T13:21:26.000,"{'type': 'Point', 'coordinates': [-116.88488390188945, 33.07806237890444]}"
+44945,PDS2013-RESALT-007168,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Paseo De Linda 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,17076 SILVER PINE RD,SAN DIEGO,CA,92127,"17076 SILVER PINE RD, SAN DIEGO, CA 92127",678-633-50-00,,,ELITE ELECTRIC,"9415 BELLEGRAVE AVE, RIVERSIDE, CA 92509",951 681-5811,FALSE,2013-12-02T15:10:49.000,"{'type': 'Point', 'coordinates': [-117.11439345515153, 33.027223760792104]}"
+44956,PDS2013-RESALT-007141,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Issued Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street:Golf Dr. 
+
+Description of Work: Electrical Panel Upgrade for Solar PV",FALSE,3714 CAROL WAY,SPRING VALLEY,CA,91977,"3714 CAROL WAY, SPRING VALLEY, CA 91977",499-373-69-00,,,VIVINT SOLAR DEVELOPER LLC,"4931 N 300 W, PROVO, UT 84604",855 877-2974,FALSE,2013-12-02T09:25:06.000,"{'type': 'Point', 'coordinates': [-117.00498888665781, 32.746790780295896]}"
+44966,PDS2013-RESALT-007166,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8010 - ACC - Plumbing Only,"Cross street: MEADOW VIEW RD
+
+Description of Work: SEWER REPAIR",FALSE,11440 MEADOW CREEK RD,EL CAJON,CA,92020,"11440 MEADOW CREEK RD, EL CAJON, CA 92020",498-132-03-00,,,A R S AMERICAN RESIDENTIAL SERVICES OF CALIFORNIA INC,"965 RIDGE LAKE BLVD STE 201, MEMPHIS, TN 38120",510 729-6044,FALSE,2013-12-02T15:08:09.000,"{'type': 'Point', 'coordinates': [-116.95168191903011, 32.76013368856666]}"
+44958,PDS2013-TPHSPM-000182,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,Tract Permit,Tract Models or Prod Units,1018 - RES - Tract Models/Master Plan,"Cross street:  CUMBRE DEL CIELO
+
+Description of Work:  MASTER PLAN FOR MAP #14920 (TM 5093-1), 5 MODELS, 3 BUILT, LOTS 59 - 61 FOR ""RAVELLO"" CWV CIELO 41.  SEE PDS2013-TMASPC-000009 FOR ALL CLEARANCES.
+
+PLAN 4D, LOT # 60
+4596 SQFT 2-STORY SFD EL-D
+642 SQFT ATTACHED FINISHED GARAGE
+PORCHES  EL-D 93 SQFT, 
+277 SQFT OUTDOOR LIVING (PATIO)",,8747 AVENIDA MIRADOR,RANCHO SANTA FE,CA,92067,"8747 AVENIDA MIRADOR, RANCHO SANTA FE, CA 92067",264-671-14-00,654869,5608,,,,FALSE,2013-12-30T14:56:45.000,"{'type': 'Point', 'coordinates': [-117.13561526706617, 33.05253172399564]}"
+44970,PDS2013-RESPRI-000307,2013-12-02T00:00:00.000,2013-12-12T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Primary Residential SFD-MH,"7020 - RES - Move Within County, SFD/Duplex","Cross street:   HWY 67
+
+Foundation: RAISED 
+
+Description of Work: 1240 SQFT MOVE-ON SFD W/ FS with 1113 SQFT STICK-BUILT ADDITION (693 sqft habitable, 420 sqft garage), 200 AMP.
+
+1/24/2014 PLAN CHANGE. ADDED SQFT. SEE C OF A.... SS
+
+**COMPLIANCE SURVEY -- PDS2013-RESALT-006922 (FINALED 11/25/13)",FALSE,12176 KUHNER WAY,LAKESIDE,CA,92040,"12176 KUHNER WAY, LAKESIDE, CA 92040",392-020-62-00,167821,1240,,,,FALSE,2013-12-12T15:14:01.000,"{'type': 'Point', 'coordinates': [-116.92668673708808, 32.87293703510838]}"
+44973,PDS2013-RESALT-007152,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: San Cicente Blvd.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+12/19/2013 - Plan Change - additional sheet please see C of A  - RR
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3692 EL CANTO DR,SPRING VALLEY,CA,91977,"3692 EL CANTO DR, SPRING VALLEY, CA 91977",501-273-25-00,,,PURE SOLAR POWER,"147 COOP COURT, ENCINITAS, CA 92024",760 840-9984,FALSE,2013-12-02T11:13:32.000,"{'type': 'Point', 'coordinates': [-116.9663139859934, 32.74626481048204]}"
+44941,PDS2013-TPHSPM-000181,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,Tract Permit,Tract Models or Prod Units,1018 - RES - Tract Models/Master Plan,"Cross street:  CUMBRE DEL CIELO
+
+Description of Work:  MASTER PLAN FOR MAP #14920 (TM 5093-1), 5 MODELS, 3 BUILT, LOTS 59 - 61 FOR ""RAVELLO"" CWV CIELO 41.  SEE PDS2013-TMASPC-000009 FOR ALL CLEARANCES.
+
+PLAN 3B, LOT # 59
+3996 SQFT SFD 
+619 SQFT ATTACHED FINISHED GARAGE
+398 SQFT OUTDOOR LIVING (PATIO)",,8759 AVENIDA MIRADOR,RANCHO SANTA FE,CA,92067,"8759 AVENIDA MIRADOR, RANCHO SANTA FE, CA 92067",264-671-13-00,573354,5013,,,,FALSE,2013-12-30T14:58:12.000,"{'type': 'Point', 'coordinates': [-117.1354207968149, 33.05252602586061]}"
+88738,PDS2016-RESALT-000231,2016-01-08T00:00:00.000,2016-01-08T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8015 - ACC - (Online) Plumbing - HRA Water Heater R&R,"CROSS STREET: SUNDALE RD 
+ 
+Description of Work: HRA (Online Permit) WATER HEATER REPLACEMENT, NO MODIFICATIONS OR ALTERNATIONS TO EXISTING SYSTEM",TRUE,1862 FUERTE VALLEY DR,EL CAJON,CA,92019,"1862 FUERTE VALLEY DR, EL CAJON, CA 92019",,,,AFFORDABLE WATER HEATERS AND PLUMBING INC,"28358 CONSTELLATION ROAD #698, VALENCIA, CA 91355",855 345-9087,TRUE,2016-01-08T08:52:37.000,"{'type': 'Point', 'coordinates': [-116.93552657646975, 32.76088135560967]}"
+44939,PDS2013-RESALT-007151,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Aldorado Dr.
+
+Description of Work: GROUND MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD 
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3159 FAIRVIEW DR,VISTA,CA,,"3159 FAIRVIEW DR, VISTA, CA",170-162-04-00,,,U S GREEN ENERGY TECHNOLOGIES INC,"11956 PLAZA DRIVE # 343, SAN DIEGO, CA 92128",851 397-4575,FALSE,2013-12-02T10:42:59.000,"{'type': 'Point', 'coordinates': [-117.22610930058157, 33.25855972832757]}"
+44946,PDS2013-RESALT-007148,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: E. Victoria Dr. 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD + Electrical Upgrade 
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3150 ACACIA LN,ALPINE,CA,91901,"3150 ACACIA LN, ALPINE, CA 91901",402-310-30-00,,,SOLARE ENERGY INC,"9520 PADGETT STREET SUITE 218, SAN DIEGO, CA 92126",858 547-4300,FALSE,2013-12-02T10:19:43.000,"{'type': 'Point', 'coordinates': [-116.74753012268513, 32.84881201571963]}"
+44930,PDS2013-RESALT-007161,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Taza Rd.
+
+Description of Work: GROUND MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,566 STEWART CANYON RD,FALLBROOK,CA,92028,"566 STEWART CANYON RD, FALLBROOK, CA 92028",108-380-30-00,,,FREEDOM SOLAR SERVICES,"31932 GLOXINIA WAY, LAKE ELSINORE, CA 92532",951 321-0855,FALSE,2013-12-02T14:26:54.000,"{'type': 'Point', 'coordinates': [-117.1611667327073, 33.374738310834395]}"
+44953,PDS2013-RESALT-007155,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,"3310 - RES - Misc. (Antennas, Tennis Cts, Gazebo)","Cross street: Encino
+
+Description of Work:  1700 sqft Reroof comp to comp shingle (1400 sqft sfd and 300 sqft Det garage) 
+
+*Your project may need to comply with COOL ROOF requirements based on the 2008 Building Energy Efficiency Standards.  Products required to comply must be labeled by the Cool Roof Rating council (CRRC), listed in the CRRC's Rated Product Directory (www.coolroofs.org), and tested for solar reflectance and thermal emittance. Your Building Inspector will check for compliance at inspection.",TRUE,473 ELDORADO DR,ESCONDIDO,CA,92025,"473 ELDORADO DR, ESCONDIDO, CA 92025",237-210-16-00,10081,1700,SANTA FE ROOFING INC,"2244 SOUTH SANTA FE AVENUE #B-1, VISTA, CA 92084-7846",760 630-9415,FALSE,2013-12-02T12:47:06.000,"{'type': 'Point', 'coordinates': [-117.06187145568511, 33.10449572959116]}"
+44969,PDS2013-RESALT-007144,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Escondido FWY
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,345 DURGIN ST,RAMONA,CA,92065,"345 DURGIN ST, RAMONA, CA 92065",282-030-12-00,,,MATT ASHWELL ELECTRIC,"232 WEST ESCALONES, SAN CLEMENTE, CA 92672",949 441-9925,FALSE,2013-12-02T09:43:36.000,"{'type': 'Point', 'coordinates': [-116.89850089904694, 33.03225972820958]}"
+44947,PDS2013-RESACC-000625,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Residential Acc Structure,3293 - RES - Pool/Spa For SFD Or Duplex,"Cross street: Dove Canyon Rd
+
+Description of Work: 600 sqft swimming pool/spa (Master Plan 92) to existing SFD",FALSE,16291 CAYENNE RIDGE RD,SAN DIEGO,CA,92127,"16291 CAYENNE RIDGE RD, SAN DIEGO, CA 92127",312-270-05-00,46200,600,,,,FALSE,2013-12-02T11:46:06.000,"{'type': 'Point', 'coordinates': [-117.10747268309355, 33.007436018197126]}"
+44964,PDS2013-RESALT-007154,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Via Donita 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD - owner builder
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.
+
+12-24-2013: PLAN CHANGE TO REDUCE MOD FROM 21 TO 15:MAZ",TRUE,2005 VIA DIEGUENOS,ALPINE,CA,91901,"2005 VIA DIEGUENOS, ALPINE, CA 91901",404-390-17-00,,,,,,FALSE,2013-12-02T11:43:35.000,"{'type': 'Point', 'coordinates': [-116.74214766026184, 32.819838612616884]}"
+44944,PDS2013-RESACC-000624,2013-12-02T00:00:00.000,2013-12-23T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Residential Acc Structure,"3281 - RES - Ag. Bldg, Barn Or Accessory Strct.","Cross street:    Morro Hills                
+
+Description of Work: 752 Shade Structure addition to Barn under constuction (see PDS2013-RESACC-000007)",FALSE,5078 SAN JACINTO EAST CIR,FALLBROOK,CA,92028,"5078 SAN JACINTO EAST CIR, FALLBROOK, CA 92028",121-141-23-00,15792,752,GREAT SOUTHWESTERN RANCH HOUSE INC,"3746 LA COLUSA DRIVE, SAN MARCOS, CA 92078",619 995-0018,FALSE,2013-12-23T14:56:19.000,
+88747,PDS2016-RESALT-000255,2016-01-08T00:00:00.000,2016-01-20T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,"3310 - RES - Misc. (Antennas, Tennis Cts, Gazebo)","Cross street: Corte Fiaba
+
+Description of Work:  Minor interior remodel works include replace kitchen island, new sink, remove 1 bathroom, install 236 sqft doors, w/ 96 LF interior partitions, 4 LF exterior in-fill wall, and 780 sqft att. covered patio w/ 2 (n) prefab. fireplaces and 6 skylights, misc. e/p for (e) SFD.",FALSE,18495 CALLE LA SERRA,RANCHO SANTA FE,CA,92067,"18495 CALLE LA SERRA, RANCHO SANTA FE, CA 92067",264-351-55-00,43952,1016,MUNSCH HOMES CORPORATION,"P O BOX 756, RANCHO SANTA FE, CA 92067",858 759-6740,FALSE,2016-01-20T14:31:29.000,"{'type': 'Point', 'coordinates': [-117.18296688606814, 33.05540473421806]}"
+44963,PDS2013-RESALT-007136,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: Central Ave 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3926 COUNTRY TRAILS,BONITA,CA,91902,"3926 COUNTRY TRAILS, BONITA, CA 91902",594-240-28-00,,,SOLARCITY CORPORATION,"3055 CLEARVIEW WAY, SAN MATEO, CA 94402",650 963-5630,TRUE,2013-12-02T10:33:47.000,"{'type': 'Point', 'coordinates': [-117.00026911266102, 32.66868919390435]}"
+44927,PDS2013-RESALT-007145,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: Archie Moore Rd
+
+Description of Work: Misc Mechanical for (2) Heat pump replacements for existing SFD (HRA)",TRUE,17137 WOODSON VIEW LN,RAMONA,CA,92065,"17137 WOODSON VIEW LN, RAMONA, CA 92065",278-481-15-00,,,AIRMAXX INC,"10984 LA ALBERCA AVENUE, SAN DIEGO, CA 92127",619 655-3010,FALSE,2013-12-02T09:50:20.000,"{'type': 'Point', 'coordinates': [-116.96058909385144, 33.01170700649605]}"
+44975,PDS2013-RESALT-007140,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Shalyn Dr.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,9467 CHERISSE LN,LAKESIDE,CA,92040,"9467 CHERISSE LN, LAKESIDE, CA 92040",398-540-26-00,,,VIVINT SOLAR DEVELOPER LLC,"4931 N 300 W, PROVO, UT 84604",855 877-2974,FALSE,2013-12-02T09:00:51.000,"{'type': 'Point', 'coordinates': [-116.89094094159418, 32.84686937880766]}"
+44932,PDS2013-RESALT-007147,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street: Austin Dr
+
+Description of Work: 200 amp electrical service upgrade",FALSE,9720 LAMAR ST,SPRING VALLEY,CA,91977,"9720 LAMAR ST, SPRING VALLEY, CA 91977",504-230-19-00,,,BRETT HINCK ELECTRICAL CONTRACTING,"9760 AUSTIN DRIVE, SPRING VALLEY, CA 91977",619 876-0890,FALSE,2013-12-02T10:25:53.000,"{'type': 'Point', 'coordinates': [-116.9907772760412, 32.733998049161286]}"
+94895,PDS2018-RESALT-002496,2018-03-23T00:00:00.000,2018-03-23T00:00:00.000,Issued About to Expire,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8010 - ACC - Plumbing Only,"Cross street: MAC TAN
+
+Description of Work: REPLACEMEN T OF 50 GAL WATER HEATER",TRUE,15741 VILLA SIERRA RD,VALLEY CENTER,CA,92082,"15741 VILLA SIERRA RD, VALLEY CENTER, CA 92082",188-191-24-00,,,,,,FALSE,2018-03-23T15:08:20.000,"{'type': 'Point', 'coordinates': [-116.98978642002824, 33.25463737891629]}"
+44954,PDS2013-RESALT-007165,2013-12-02T00:00:00.000,2013-12-04T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8015 - ACC - (Online) Plumbing - HRA Water Heater R&R,"NEAREST CROSS STREET: E ALVARADO
+
+REPLACE 40G WATER HEATER
+
+Description of Work: HRA (Online Permit) WATER HEATER REPLACEMENT, NO MODIFICATIONS OR ALTERNATIONS TO EXISTING SYSTEM",TRUE,149 S MERCEDES RD,FALLBROOK,CA,92028,"149 S MERCEDES RD, FALLBROOK, CA 92028",105-445-53-00,,,WATER HEATERS ONLY INC,"970 E MAIN STREET #200, GRASS VALLEY, CA 95945",530 274-3001,TRUE,2013-12-04T07:42:14.000,"{'type': 'Point', 'coordinates': [-117.23419972558327, 33.38096885078933]}"
+44931,PDS2013-RESALT-007163,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,"3310 - RES - Misc. (Antennas, Tennis Cts, Gazebo)","Cross street: Putter
+
+Description of Work:  308 sqft Screened Enclosed Patio and 112 sqft Alum Covered Patio 
+
+*Your project may need to comply with COOL ROOF requirements based on the 2008 Building Energy Efficiency Standards.  Products required to comply must be labeled by the Cool Roof Rating council (CRRC), listed in the CRRC's Rated Product Directory (www.coolroofs.org), and tested for solar reflectance and thermal emittance. Your Building Inspector will check for compliance at inspection.",FALSE,2960 BONITA MESA RD,BONITA,CA,91902,"2960 BONITA MESA RD, BONITA, CA 91902",570-040-14-00,33614,420,SKYLINE SUNROOMS INC,"1955 CORDELL CT #101, EL CAJON, CA 92020",619 334-4504,FALSE,2013-12-02T15:27:53.000,"{'type': 'Point', 'coordinates': [-117.06228764228096, 32.65383539514636]}"
+44928,PDS2013-RESALT-007162,2013-12-02T00:00:00.000,2013-12-03T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8015 - ACC - (Online) Plumbing - HRA Water Heater R&R,"PLEASE ENTER THE NEAREST CROSS STREET:Palomino mesa rd & Cross Stone Dr
+DO_NOT_EDIT_BELOW_THIS_LINE
+Description of Work: HRA (Online Permit) WATER HEATER REPLACEMENT, NO MODIFICATIONS OR ALTERNATIONS TO EXISTING SYSTEM",TRUE,15185 CROSS STONE DR,SAN DIEGO,CA,92127,"15185 CROSS STONE DR, SAN DIEGO, CA 92127",,,,CALIFORNIA DELTA MECHANICAL INC,"6056 E BASELINE ROAD #155, MESA, AZ 85206",619 229-6800,TRUE,2013-12-02T14:22:04.000,"{'type': 'Point', 'coordinates': [-117.11077200932054, 33.006055193889836]}"
+44959,PDS2013-RESALT-007149,2013-12-02T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: Silver Fox Road
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,35086 SR-79,WARNER SPRINGS,CA,92086,"35086 SR-79, WARNER SPRINGS, CA 92086",114-140-42-00,,,SOLARCITY CORPORATION,"3055 CLEARVIEW WAY, SAN MATEO, CA 94402",650 963-5630,TRUE,2013-12-03T08:39:02.000,"{'type': 'Point', 'coordinates': [-116.73619445562204, 33.349816754380086]}"
+44972,PDS2013-COMALT-000670,2013-12-02T00:00:00.000,2014-03-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Commercial Alteration-Addn,"3311 - COM - Misc. (Antennas, Canopy, Racks)","Cross street:
+
+Description of Work:   Replace existing nominal 50 ton chiller w/2 nominal 70 ton chillers, one to be redundant, replace existing nominal 24,000 cfm ahu with 38000 cfm fan array ahu, add cmu openings and extend cmu wall 3' up
+
+9/11/14: plan change -- add cmu openings & extend cmu wall 3' up; see c of a...vmt
+
+*Your project may need to comply with COOL ROOF requirements based on the 2008 Building Energy Efficiency Standards.  Products required to comply must be labeled by the Cool Roof Rating council (CRRC), listed in the CRRC's Rated Product Directory (www.coolroofs.org), and tested for solar reflectance and thermal emittance. Your Building Inspector will check for compliance at inspection.",FALSE,9580 LAKEVIEW RD,LAKESIDE,CA,92040,"9580 LAKEVIEW RD, LAKESIDE, CA 92040",395-151-19-00,75000,,R J DAUM CONSTRUCTION COMPANY,"11581 MONARCH STREET, GARDEN GROVE, CA 92841",714 894-4300,FALSE,2014-09-11T12:57:41.000,"{'type': 'Point', 'coordinates': [-116.90512004085967, 32.85467137504651]}"
+44971,PDS2013-RESALT-007172,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Issued Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street: Big Wagon and South Grade
+
+Description of Work: 400 amp electrical service",FALSE,2022 CAM DE REIMITZ,ALPINE,CA,91901,"2022 CAM DE REIMITZ, ALPINE, CA 91901",520-050-15-00,,,,,,FALSE,2013-12-02T15:31:16.000,
+44950,PDS2013-RESALT-007160,2013-12-02T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Montura Rd.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,1735 PASTORAL WAY,SAN MARCOS,CA,92069,"1735 PASTORAL WAY, SAN MARCOS, CA 92069",221-181-06-00,,,A S I HASTINGS INC,"4870 VIEWRIDGE AVENUE #200, SAN DIEGO, CA 92123",619 590-9300,FALSE,2013-12-02T13:38:53.000,"{'type': 'Point', 'coordinates': [-117.21613907993796, 33.126088729432325]}"
+44976,PDS2013-RESALT-007135,2013-11-30T00:00:00.000,2013-12-03T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: ST ANDREWS LANE
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,14552 CYPRESS POINT TRL,VALLEY CENTER,CA,92082,"14552 CYPRESS POINT TRL, VALLEY CENTER, CA 92082",189-342-12-00,,,HERCA SOLAR INC,"18610 BECK STREET, PERRIS, CA 92570",760 966-8068,TRUE,2013-12-03T07:45:06.000,"{'type': 'Point', 'coordinates': [-117.01369387941008, 33.20657464767582]}"
+44977,PDS2013-RESALT-007134,2013-11-29T00:00:00.000,2013-12-02T00:00:00.000,Issued Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8015 - ACC - (Online) Plumbing - HRA Water Heater R&R,"PLEASE ENTER THE NEAREST CROSS STREET: Eucalyptus St.
+
+
+Description of Work: HRA (Online Permit) WATER HEATER REPLACEMENT, NO MODIFICATIONS OR ALTERNATIONS TO EXISTING SYSTEM",TRUE,1657 LA MESA AVE,SPRING VALLEY,CA,91977,"1657 LA MESA AVE, SPRING VALLEY, CA 91977",579-393-11-00,,,CALIFORNIA DELTA MECHANICAL INC,"6056 E BASELINE ROAD #155, MESA, AZ 85206",619 229-6800,TRUE,2013-12-02T07:36:33.000,"{'type': 'Point', 'coordinates': [-116.98721964719364, 32.721125271990076]}"
+44990,PDS2013-RESALT-007100,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,4340 - RES - Addition/Alter To SFD/Duplex,"Cross street: Old Hwy 80
+
+Description of Work: 15 sqft Shower Addition for existing",FALSE,9172 PINKARD LN,EL CAJON,CA,92021,"9172 PINKARD LN, EL CAJON, CA 92021",398-260-18-00,2030,15,,,,FALSE,2013-11-27T09:04:41.000,"{'type': 'Point', 'coordinates': [-116.88829007590019, 32.84363309871968]}"
+45002,PDS2013-RESALT-007129,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Via De La Valle
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV AND NEW 60 AMP SUBPANEL FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3759 AVNDA FELIZ,RANCHO SANTA FE,CA,92067,"3759 AVNDA FELIZ, RANCHO SANTA FE, CA 92067",302-240-39-00,,,N B BAKER ELECTRIC INC,"1298 PACIFIC OAKS PLACE, ESCONDIDO, CA 92029",760 745-2001,FALSE,2013-11-27T15:13:19.000,
+45003,PDS2013-RESALT-007127,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: E CHASE RD.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD AND MISC ELEC FOR PANEL UPGRAD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,1542 FAIR GLEN RD,EL CAJON,CA,92019,"1542 FAIR GLEN RD, EL CAJON, CA 92019",517-210-24-00,,,N B BAKER ELECTRIC INC,"1298 PACIFIC OAKS PLACE, ESCONDIDO, CA 92029",760 745-2001,FALSE,2013-11-27T15:10:07.000,"{'type': 'Point', 'coordinates': [-116.92588173162515, 32.767165612046995]}"
+44978,PDS2013-RESALT-007112,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET:___HOLT ST.____________ 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.
+
+12-11-13:PLAN CHANGE ELEC ONLY:MAZ",TRUE,8344 CLEARWATER CT,SPRING VALLEY,CA,91977,"8344 CLEARWATER CT, SPRING VALLEY, CA 91977",586-310-42-00,,,QUALITY HOME RENOVATORS INC,"8445 CAMINO SANTA FE #213, SAN DIEGO, CA 92121",858 999-2605,TRUE,2013-11-27T11:34:23.000,"{'type': 'Point', 'coordinates': [-117.02157021848716, 32.6981437396062]}"
+179909,PDS2021-RESALT-000145,2021-01-06T00:00:00.000,2021-01-06T00:00:00.000,Issued,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: WILLOW GLEN DRIVE
+
+Description of Work: MISC MECH TO REPLACE A/C AND FAU IN EXISTING SFD",FALSE,1435 GOLDEN HARVEST LN,EL CAJON,CA,92019,"1435 GOLDEN HARVEST LN, EL CAJON, CA 92019",515-133-30-00,,,ACCURATE COMFORT SYSTEMS INC,"130 BOSSTICK BLVD, SAN MARCOS, CA 92069",760 727-4152,FALSE,2021-01-06T13:50:38.000,
+16955,PDS2016-RESALT-000243,2016-01-08T00:00:00.000,2016-01-08T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,"3310 - RES - Misc. (Antennas, Tennis Cts, Gazebo)","Cross street: FALLBROOK CT
+
+Description of Work: 2700SF RE-ROOF
+
+If a re-roof project is proposed, the following specifications apply.
+Existing roofing material: ASPHALT
+Proposed roofing material: ASPHALT
+Manufacturer: OWENS CORNING
+Brand and model: TRU DEFINITION
+Color (if cool roof required): NA
+Built-up roofing assembly system number per attached listing report (if applicable): NA
+Specific exemption from cool roof requirements (if applicable): NO DUCTS IN ATTIC
+Required building inspector field verification* (if applicable): 
+
+*Note: Self-certification by a licensed contractor is acceptable if a signed letter on company letterhead is provided to the building inspector.",TRUE,4375 ACACIA AVE,BONITA,CA,91902,"4375 ACACIA AVE, BONITA, CA 91902",594-061-16-00,16011,2700,,,,FALSE,2016-01-08T11:37:25.000,"{'type': 'Point', 'coordinates': [-117.01999287246443, 32.75865399608275]}"
+792,PDS2017-COMALT-000097,2017-03-06T00:00:00.000,2017-07-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Commercial Alteration-Addn,"3311 - COM - Misc. (Antennas, Canopy, Racks)","Cross street:   PERA ALTA
+
+Description of Work:   Cell site mod for AT&T Mobility as follows:
+
+New 12'x18'x10' tall split face block enclosure (noise control feature)
+Install 4 - 6'0"" panel antennas per sector (for a total of 12)
+Install  2 GPS Antennas
+Install 4 remote radio units (RRU) per sector total of (12)
+Install 3 surge protector on tower
+Install 2 WCS RF filter per sector total of (6)
+Install 2 surge protector equipment area
+Install 1 battery cabinet
+Install 1 power cabinet 
+Install 4 Purcell cabinet 
+install 200 am ac power routed to proposed equipment enclosure 
+Install of Telco routed to proposed equipment enclosure 
+
+11/17/17-ADDED TESTING POWER. KP
+ 
+
+.",FALSE,3218 PINE HILLS CREST,JULIAN,CA,92036,"3218 PINE HILLS CREST, JULIAN, CA 92036",289-214-06-00,30000,,R D ENGINEERING & CONSTRUCTION INC,"1660 N MAGNOLIA AVE, EL CAJON, CA 92020-1242",619 562-2255,FALSE,2017-10-11T08:19:17.000,"{'type': 'Point', 'coordinates': [-116.6284358582846, 33.04830073015436]}"
+44993,PDS2013-RESALT-007101,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street:Central Ave.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV AND 200A ELECTRICAL PANEL UPGRADE FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3635 CORRAL CANYON RD,BONITA,CA,91902,"3635 CORRAL CANYON RD, BONITA, CA 91902",590-290-02-00,,,,,,FALSE,2013-11-27T09:24:22.000,"{'type': 'Point', 'coordinates': [-117.01110455169226, 32.67034159110367]}"
+44991,PDS2013-RESALT-007133,2013-11-27T00:00:00.000,2014-04-15T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,4340 - RES - Addition/Alter To SFD/Duplex,"Cross street: La Cresta Rd
+
+Description of Work:  285 sq. ft. addn  (convert patio/sunroom to habitable space bedroom  4), 707 sq. ft. garage conversion (bedroom 3, bonus room, bathroom 4), 250 l.f. walls for minor interior remodel (enlarge master bedroom by removing bedroom 2, remove bedroom 3 to create dining room), 153 sq. ft. deck, misc electrical plumbing and mechanical.",FALSE,2155 VISTA VALLEY RIM PL,EL CAJON,CA,92019,"2155 VISTA VALLEY RIM PL, EL CAJON, CA 92019",508-032-45-00,108144,1145,REIG COMPANIES,"820 LOS VALLECITOS SUITE F, SAN MARCOS, CA 92069",760 566-3203,FALSE,2014-04-15T08:59:24.000,"{'type': 'Point', 'coordinates': [-116.9042263455278, 32.807305912260546]}"
+44997,PDS2013-RESALT-007121,2013-11-27T00:00:00.000,2013-12-02T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: Grid Road 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,2825 NUESTRA LN,FALLBROOK,CA,92028,"2825 NUESTRA LN, FALLBROOK, CA 92028",107-150-02-00,,,SOLARCITY CORPORATION,"3055 CLEARVIEW WAY, SAN MATEO, CA 94402",650 963-5630,TRUE,2013-12-02T07:27:11.000,
+45008,PDS2013-RESALT-007111,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street:RANCHO SANTA TERESA DR.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,24830 OAKANA RD,RAMONA,CA,92065,"24830 OAKANA RD, RAMONA, CA 92065",286-170-01-00,,,NAVAJO SOLAR,"24015 DEL AMO PLACE, RAMONA, CA 92065",760 789-8536,FALSE,2013-11-27T11:08:19.000,"{'type': 'Point', 'coordinates': [-116.7940024563608, 33.074013461532886]}"
+44992,PDS2013-RESALT-007114,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET:__Welk Highland Drive_____________ 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,29516 WELK HIGHLAND LN,ESCONDIDO,CA,92026,"29516 WELK HIGHLAND LN, ESCONDIDO, CA 92026",185-461-14-00,,,N B BAKER ELECTRIC INC,"1298 PACIFIC OAKS PLACE, ESCONDIDO, CA 92029",760 745-2001,TRUE,2013-11-27T11:40:29.000,"{'type': 'Point', 'coordinates': [-117.13188997897124, 33.24113385080478]}"
+45005,PDS2013-RESALT-007106,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Buggywhip Dr. 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,2452 DOUBLETREE RD,SPRING VALLEY,CA,91978,"2452 DOUBLETREE RD, SPRING VALLEY, CA 91978",506-061-08-00,,,A S I HASTINGS INC,"4870 VIEWRIDGE AVENUE #200, SAN DIEGO, CA 92123",619 590-9300,FALSE,2013-11-27T10:14:23.000,"{'type': 'Point', 'coordinates': [-116.95918392487366, 32.728780863268874]}"
+44984,PDS2013-RESALT-007118,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,"3310 - RES - Misc. (Antennas, Tennis Cts, Gazebo)","Cross street: Bancroft Dr
+
+Description of Work: Reduce size of one window and remove one door. HRA- replace 9 windows",TRUE,2914 ROSEDALE CT,SPRING VALLEY,CA,91977,"2914 ROSEDALE CT, SPRING VALLEY, CA 91977",504-171-22-00,13608,426,,,,FALSE,2013-11-27T13:32:28.000,"{'type': 'Point', 'coordinates': [-117.00389205236256, 32.73643458423063]}"
+44981,PDS2013-RESALT-007105,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: San Francisco St.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,848 FELICITA AVE,SPRING VALLEY,CA,91977,"848 FELICITA AVE, SPRING VALLEY, CA 91977",584-310-14-00,,,VIVINT SOLAR DEVELOPER LLC,"4931 N 300 W, PROVO, UT 84604",855 877-2974,FALSE,2013-11-27T09:50:51.000,"{'type': 'Point', 'coordinates': [-117.00088928670769, 32.712562630162616]}"
+45004,PDS2013-RESALT-007110,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Grandview Dr.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.
+
+12-12-13:PLAN CHANGE TO LAYOUT ONLY:MAZ",TRUE,4680 RESMAR RD,LA MESA,CA,91941,"4680 RESMAR RD, LA MESA, CA 91941",496-233-07-00,,,GREEN ENERGY EPC INC,"4375 FELTON STREET UNIT 5, SAN DIEGO, CA 92104",773 502-1529,FALSE,2013-11-27T10:57:22.000,"{'type': 'Point', 'coordinates': [-116.97517320330424, 32.763925652637724]}"
+232477,PDS2023-RESALT-012291,2023-08-17T00:00:00.000,2023-08-17T00:00:00.000,Issued,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8013 - ACC - Electric Vehicle Charging Station - Online,"CROSS STREET: Upland St 
+
+Description of Work: (Online Permit) RESIDENTIAL ELECTRIC VEHICLE CHARGING STATION(S) (TOTAL OF 1 STATIONS) FOR EXISTING SFD",FALSE,9553 LAMAR ST,SPRING VALLEY,CA,,"9553 LAMAR ST, SPRING VALLEY, CA",504-132-67-00,,,CARLSBAD ELECTRICAL SERVICES LLC,"2134 STEIGER LANE, OCEANSIDE, CA 92056",7609170181,TRUE,2023-08-17T13:33:27.000,
+44979,PDS2013-RESPRI-000303,2013-11-27T00:00:00.000,2014-03-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Primary Residential SFD-MH,1010 - RES - New Primary Residential Structure,"Cross street:   Reche Rd                 
+
+Foundation: SLAB          
+
+Description of Work: 2582 sq ft sfd w/ac, fs and attached fin fs 1020 sf.  338 sq ft porch.  400 amp service temp power and top
+
+06/04/14 Plan Change to 400 amp see C of A...VMD
+Notice to Permittee: Temp power shall be inspected prior to framing inspection",FALSE,1624 WIND RIDGE LN,FALLBROOK,CA,92028,"1624 WIND RIDGE LN, FALLBROOK, CA 92028",107-370-24-00,396387,3940,ZEBU CONSTRUCTION AND DESIGN INC,"P O BOX 2978, FALLBROOK, CA 92028",760 723-7205,FALSE,2014-03-27T09:56:43.000,"{'type': 'Point', 'coordinates': [-117.19256495395511, 33.36479865110664]}"
+44982,PDS2013-RESGRD-000076,2013-11-27T00:00:00.000,2014-02-13T00:00:00.000,Completed,LUEG-PDS,Building,Grading,PDS Residential Minor Grading,1010 - RES - New Primary Residential Structure,"Cross street:   Reche Rd                 
+
+Foundation: SLAB          
+
+Description of Work:  2582 sq ft sfd w/ac, fs and attached fin fs 1020 sf.  338 sq ft porch.  200 amp service temp power and top
+
+Notice to Permittee: Temp power shall be inspected prior to framing inspection",,1624 WIND RIDGE LN,FALLBROOK,CA,92028,"1624 WIND RIDGE LN, FALLBROOK, CA 92028",107-370-24-00,,,ZEBU CONSTRUCTION AND DESIGN INC,"P O BOX 2978, FALLBROOK, CA 92028",760 723-7205,FALSE,2014-02-13T08:31:49.000,"{'type': 'Point', 'coordinates': [-117.19256495395511, 33.36479865110664]}"
+45010,PDS2013-RESALT-007103,2013-11-27T00:00:00.000,,PC Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,4340 - RES - Addition/Alter To SFD/Duplex,"Cross street: Lomo Del Sur
+
+Description of Work: 799 sqft basement conver. to habitable space (Bathroom, bedroom, rec room). Interior remodel to include stairs (1st floor to lower level)",FALSE,10053 MOZELLE LN,LA MESA,CA,91941,"10053 MOZELLE LN, LA MESA, CA 91941",501-102-06-00,109306,838,,,,FALSE,2013-11-27T09:33:49.000,"{'type': 'Point', 'coordinates': [-116.9780285059537, 32.75525015712095]}"
+134174,PDS2008-1005-20080144,2008-02-14T00:00:00.000,2008-03-13T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,New Residential Acc Structure,3313 - ACC - Retaining Walls,"Cross street:VIA LOMA VISTA
+
+Description of Work:***2007 FIRES***REBUILD 320 SQ/FT (4' H x 80' L) RETAINING WALLS TO COUNTY STD (SLOPING BACK-FILL) FOR SFD IN CONSTRUCTION PROCESS.
+
+1011736",,1202 VIA PRIVADA,ESCONDIDO,CA,92029,"1202 VIA PRIVADA, ESCONDIDO, CA 92029",272-361-79-00,6120,360,LRS HOMES INC,"11386 CRAZY HORSE DR, LAKESIDE, CA 92040",619.443.3342,FALSE,2012-11-18T20:36:02.000,
+179912,PDS2021-MHPARK-000004,2021-01-06T00:00:00.000,,Open,LUEG-PDS,Building,PC-Permit,Construction in a MH Park,1154 - M.H.P. - 901a - Misc. Accessory Structures,"Park Name: LAWRENCE WELK COUNTRY CLUB  
+Park I.D. No.37-  0362      Space No.: 226      Map ref: 1089A2
+Community: ESCONDIDO
+Description: 160 SQFT PATIO COVER ENCLOSURE AND PORCH REPAIR FOR EXISTING SPACE IN MH PARK
+
+
+Note to permittee: ONCE THIS PERMIT IS ISSUED IT WILL BE VALID FOR SIX MONTHS. Work must commence and a valid inspection performed within six months of issuance. No extension shall be granted where work has not started prior to expiration of the initial permit. Upon payment of fees, a permit extension of six months may be granted. No permit shall be extended more than two years from issuance of the initial permit to construct.",,8975 LAWRENCE WELK DR 226,ESCONDIDO,CA,92026,"8975 LAWRENCE WELK DR 226, ESCONDIDO, CA 92026",185-332-11-52,,,,,,FALSE,2021-01-06T11:15:25.000,
+45015,PDS2013-RESALT-007098,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET: JAMUL DR.
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,3045 LASVEN CT,EL CAJON,CA,92019,"3045 LASVEN CT, EL CAJON, CA 92019",519-350-18-00,,,SUNFUSION SOLAR ELECTRIC INC,"6165 AGGE STREET, SAN DIEGO, CA 92122",888 506-3732,TRUE,2013-11-27T11:32:43.000,"{'type': 'Point', 'coordinates': [-116.91123577517087, 32.74185007771737]}"
+45009,PDS2013-RESALT-007126,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: RANCHO BERNARDO RD.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD AND ELEC PANEL UPGRADE
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,16951 SILVER CREST DR,SAN DIEGO,CA,92127,"16951 SILVER CREST DR, SAN DIEGO, CA 92127",678-630-27-00,,,N B BAKER ELECTRIC INC,"1298 PACIFIC OAKS PLACE, ESCONDIDO, CA 92029",760 745-2001,FALSE,2013-11-27T15:01:48.000,"{'type': 'Point', 'coordinates': [-117.11543674925547, 33.02425552792808]}"
+44998,PDS2013-RESALT-007119,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8002 - REN - (Online) RES Roof Mt Solar PV No Meter Upgrade (HRA),"PLEASE ENTER THE NEAREST CROSS STREET:_Estrelita Dr._ 
+
+_____________DO_NOT_EDIT_BELOW_THIS_LINE_____________
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,555 HOLLY LN,VISTA,CA,92084,"555 HOLLY LN, VISTA, CA 92084",184-190-14-00,,,ERIKSSON,"P O BOX 60025, SAN DIEGO, CA 92166",619 665-9149,TRUE,2013-11-27T14:19:08.000,"{'type': 'Point', 'coordinates': [-117.19619067582742, 33.175024674754304]}"
+45013,PDS2013-RESALT-007116,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8000 - ACC - Electrical Only,"Cross street: Greenfield Dr
+
+Description of Work: 200 amp electrical service upgrade",FALSE,1910 SIESTA CALLE,EL CAJON,CA,92019,"1910 SIESTA CALLE, EL CAJON, CA 92019",508-031-29-00,,,,,,FALSE,2013-11-27T12:58:13.000,"{'type': 'Point', 'coordinates': [-116.90736111443898, 32.804445010290195]}"
+44980,PDS2013-RESALT-007115,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Dehesa Rd.
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,752 SINGING HEIGHTS DR,EL CAJON,CA,92019,"752 SINGING HEIGHTS DR, EL CAJON, CA 92019",515-081-33-00,,,HOME ENERGY SYSTEMS INC,"10969 SAN DIEGO MISSION ROAD, SAN DIEGO, CA 92108",619 692-2015,FALSE,2013-11-27T12:43:59.000,"{'type': 'Point', 'coordinates': [-116.9009532097025, 32.785454608860555]}"
+44985,PDS2013-RESALT-007122,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street:
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD AND MISC ELEC PANEL UPGRADE
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,2803 MORNINGSIDE TRL,ESCONDIDO,CA,92029,"2803 MORNINGSIDE TRL, ESCONDIDO, CA 92029",270-190-19-00,,,N B BAKER ELECTRIC INC,"1298 PACIFIC OAKS PLACE, ESCONDIDO, CA 92029",760 745-2001,FALSE,2013-11-27T14:38:08.000,"{'type': 'Point', 'coordinates': [-117.0947121468186, 33.07946302537433]}"
+45011,PDS2013-RESALT-007108,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Linda St. 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.
+
+01.02.2014: plan change to derate centerfed panel (ok per M1A)...LHG",TRUE,1755 CALMIN DR,FALLBROOK,CA,92028,"1755 CALMIN DR, FALLBROOK, CA 92028",106-103-21-00,,,A S I HASTINGS INC,"4870 VIEWRIDGE AVENUE #200, SAN DIEGO, CA 92123",619 590-9300,FALSE,2013-11-27T10:27:13.000,"{'type': 'Point', 'coordinates': [-117.2217609733783, 33.363349217526036]}"
+45007,PDS2013-RESALT-007104,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Completed,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8003 - REN - Solar Photovoltaic Residential (HRA),"Cross Street: Apple St. 
+
+Description of Work: ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD
+
+Per Section 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5' above the highest point of the existing roof.",TRUE,1610 SAN MIGUEL AVE,SPRING VALLEY,CA,91977,"1610 SAN MIGUEL AVE, SPRING VALLEY, CA 91977",579-372-17-00,,,VIVINT SOLAR DEVELOPER LLC,"4931 N 300 W, PROVO, UT 84604",855 877-2974,FALSE,2013-11-27T09:40:20.000,"{'type': 'Point', 'coordinates': [-116.9913123769386, 32.720413664771655]}"
+44987,PDS2013-RESALT-007097,2013-11-27T00:00:00.000,2013-11-27T00:00:00.000,Issued Invalid Expired,LUEG-PDS,Building,PC-Permit,Residential Alteration-Addn,8020 - ACC - Mechanical Only,"Cross street: Calle Lucia
+ 
+Description of Work: Replacing furnace",FALSE,12439 CALLE LUCIA TRL,LAKESIDE,CA,92040,"12439 CALLE LUCIA TRL, LAKESIDE, CA 92040",397-381-38-00,9396,1800,SWAIN HEATING AND AIR CONDITIONING,"13353 ARIKARA DRIVE, POWAY, CA 92064",760 576-7866,FALSE,2013-11-27T08:24:27.000,"{'type': 'Point', 'coordinates': [-116.91933428827228, 32.839710504485375]}"
+12159,APCD Test,,,,,,,,,,,,,,,,,,5000,test_contractor,,,TRUE,,
